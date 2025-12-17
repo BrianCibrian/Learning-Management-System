@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" additionalparam="  --add-modules javafx.controls.javafx.base" author="true" classpath="C:\Users\omarv\javafx-sdk-21.0.8\lib\javafx-swt.jar;C:\Users\omarv\javafx-sdk-21.0.8\lib\javafx.media.jar;C:\Users\omarv\javafx-sdk-21.0.8\lib\javafx.controls.jar;C:\Users\omarv\javafx-sdk-21.0.8\lib\javafx.graphics.jar;C:\Users\omarv\javafx-sdk-21.0.8\lib\javafx.base.jar;C:\Users\omarv\javafx-sdk-21.0.8\lib\javafx.swing.jar;C:\Users\omarv\javafx-sdk-21.0.8\lib\javafx.web.jar;C:\Users\omarv\javafx-sdk-21.0.8\lib\javafx.fxml.jar;C:\Users\omarv\h2\bin\h2-2.3.232.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="21" sourcefiles="src/module-info.java" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
