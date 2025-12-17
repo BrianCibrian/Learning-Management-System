@@ -15,5 +15,5 @@ bin/
 Thumbs.db
 
 # Testing
-src/testing/
-src/manualTests/
+testing/
+manualTests/
